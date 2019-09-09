@@ -1,7 +1,7 @@
 'use strict';
-
+/*
 var port = process.env.PORT || 3000; // first change
-
+*/
 var http = require('http');
 var express = require('express');
 var bodyParser = require('body-parser');
@@ -29,6 +29,7 @@ app.get("/",function(req,res) {
     res.sendFile("hostingstart.html", { root: __dirname });//last change to display a static welcome page
     
 });
+/*
 server.listen(port, function () { // fifth and final change
-});
+});*/
 module.exports = app;
