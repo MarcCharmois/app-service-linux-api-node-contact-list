@@ -1,2 +1,2 @@
-# Node.js API with Swagger that can be deployed on Azure App Service on Linux
+# Node.js API with Swagger UI that can be deployed to Azure App Service on Linux
 
