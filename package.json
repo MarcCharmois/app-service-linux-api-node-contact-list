@@ -16,9 +16,9 @@
     "node": "~0.10.22"
   },
   "dependencies": {
-    "body-parser": "^1.9.0",
+    "body-parser": "^1.20.1",
     "debug": "^4.1.1",
-    "express": "^4.0.0",
+    "express": "^4.18.2",
     "jsonpath": "^0.2.0",
     "swaggerize-express": "^3.0.0",
     "swaggerize-ui": "^1.0.1",
@@ -38,7 +38,7 @@
     "enjoi": "~0.1.16",
     "istanbul": "~0.2.3",
     "jshint": "^2.10.2",
-    "supertest": "~0.13.0",
+    "supertest": "~6.3.2",
     "tape": "^4.11.0"
   },
   "scripts": {
